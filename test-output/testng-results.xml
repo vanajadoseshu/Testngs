@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-24T18:12:34 IST" name="Default suite" finished-at="2021-11-24T18:12:35 IST" duration-ms="71">
+    <groups>
+      <group name="school details">
+        <method signature="GroupingTest.std_Id()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" name="std_Id" class="simpleannotations.GroupingTest"/>
+        <method signature="GroupingTest.std_Name()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" name="std_Name" class="simpleannotations.GroupingTest"/>
+      </group> <!-- school details -->
+      <group name="college details">
+        <method signature="GroupingTest.clg_Loacation()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" name="clg_Loacation" class="simpleannotations.GroupingTest"/>
+        <method signature="GroupingTest.clg_Name()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" name="clg_Name" class="simpleannotations.GroupingTest"/>
+      </group> <!-- college details -->
+    </groups>
+    <test started-at="2021-11-24T18:12:34 IST" name="Default test" finished-at="2021-11-24T18:12:35 IST" duration-ms="71">
+      <class name="simpleannotations.GroupingTest">
+        <test-method signature="clg_Loacation()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" started-at="2021-11-24T18:12:35 IST" name="clg_Loacation" finished-at="2021-11-24T18:12:35 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clg_Loacation -->
+        <test-method signature="clg_Name()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" started-at="2021-11-24T18:12:35 IST" name="clg_Name" finished-at="2021-11-24T18:12:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clg_Name -->
+        <test-method signature="std_Id()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" started-at="2021-11-24T18:12:35 IST" name="std_Id" finished-at="2021-11-24T18:12:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- std_Id -->
+        <test-method signature="std_Name()[pri:0, instance:simpleannotations.GroupingTest@272ed83b]" started-at="2021-11-24T18:12:35 IST" name="std_Name" finished-at="2021-11-24T18:12:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- std_Name -->
+      </class> <!-- simpleannotations.GroupingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
